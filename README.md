@@ -186,9 +186,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 ## Output  :
+
 ##WITHOUT OBSTACLES
+
  ![IOT_EX_02(WITHOUT OBSTACLES)](https://github.com/Udhayasankaran04/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119393933/674079f8-7547-4a51-9083-39d1df5cec2c)
+
+ 
 ##WITH OBSTACLES
+
 ![IOT_EX_02(WITH OBSTACLES)](https://github.com/Udhayasankaran04/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119393933/67fd474f-54c3-4988-a863-d275f1b7df76)
 
 ## Result :
